@@ -1,0 +1,4 @@
+whitelist = {
+["HEYXDXD"] = true,
+}
+return whitelist
